@@ -1,4 +1,5 @@
 # Pong Game
+Pong is a table tennis–themed twitch arcade sports video game, featuring simple two-dimensional graphics.<br>
 * Pong is a table tennis–themed twitch arcade sports video game, featuring simple two-dimensional graphics.
 * This is a colour remake of the same game, made in python using the Turtle module.
 * The right paddle can be moved up or down by using the up and down arrow keys respectively.
